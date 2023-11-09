@@ -26,8 +26,6 @@ Izabele Caetano Fossato - izafossato@gmail.com
 
 Project Link: [https://github.com/izafossato/lista-de-presenca-springboot](https://github.com/izafossato/lista-de-presenca-springboot)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Agradecimentos
 
 - Professor José Matias Lemes Filho [matiasfilho81](https://github.com/matiasfilho81))

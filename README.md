@@ -2,6 +2,9 @@
 
 
 ### Descrição do Projeto:
+  Nosso sistema é uma aplicação web que permite aos professores registrarem e consultarem a frequência dos alunos em arquivos csv de forma fácil, rápida e segura. O sistema utiliza uma rest API e spring boot para sincronizar os dados em um servidor central, garantindo a integridade, a confiabilidade e a disponibilidade das informações. 
+  Considerando que o registro e a consulta da presença dos alunos às aulas é uma tarefa que demanda tempo, papel e espaço físico, propomos o desenvolvimento de um sistema de lista de presença de sala de aula, para automatizar e otimizar o processo de registro e consulta da frequência dos alunos, contribuindo para a qualidade do controle da frequência dos alunos e reduzindo possíveis erros e perda de dados.
+
 
 ### Desenvolvedores:
 - Daniel Lucas de Mello Ferreira Natal RA: 202106428

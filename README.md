@@ -1,9 +1,9 @@
 # lista-de-presenca-springboot
 
 
-## Descrição do Projeto:
+### Descrição do Projeto:
 
-## Desenvolvedores:
+### Desenvolvedores:
 - Daniel Lucas de Mello Ferreira Natal RA: 202106428
 - Izabele Caetano Fossato RA: 202105065
 
@@ -15,10 +15,15 @@ Se você tiver uma sugestão que possa melhorar isso, crie um fork do repositór
 - Biblioteca
 - Banco de Dados
 
-## Descrição da Arquitetura:
+### Descrição da Arquitetura:
 
+### Funcionalidade
 
-## Contact
+### Documentação
+
+### Inovação e Criatividade
+
+### Contact
 
 Daniel Ferreira Natal - daniellucasatibaia@gmail.com
 
@@ -26,7 +31,7 @@ Izabele Caetano Fossato - izafossato@gmail.com
 
 Project Link: [https://github.com/izafossato/lista-de-presenca-springboot](https://github.com/izafossato/lista-de-presenca-springboot)
 
-## Agradecimentos
+### Agradecimentos
 
 - Professor José Matias Lemes Filho [matiasfilho81](https://github.com/matiasfilho81))
 

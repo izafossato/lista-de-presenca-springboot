@@ -4,8 +4,8 @@
 ## Descrição do Projeto:
 
 ## Desenvolvedores:
-Daniel Lucas de Mello Ferreira Natal RA: 202106428
-Izabele Caetano Fossato RA: 202105065
+- Daniel Lucas de Mello Ferreira Natal RA: 202106428
+- Izabele Caetano Fossato RA: 202105065
 
 Se você tiver uma sugestão que possa melhorar isso, crie um fork do repositório e também uma solicitação de pull. Você também pode simplesmente abrir uma issue com a tag “aprimoramento”.
 
@@ -21,14 +21,16 @@ Se você tiver uma sugestão que possa melhorar isso, crie um fork do repositór
 ## Contact
 
 Daniel Ferreira Natal - daniellucasatibaia@gmail.com
+
 Izabele Caetano Fossato - izafossato@gmail.com
+
 Project Link: [https://github.com/izafossato/lista-de-presenca-springboot](https://github.com/izafossato/lista-de-presenca-springboot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Agradecimentos
 
-- Professor José Matias Lemes Filho [matiasfilho81](https://github.com/matiasfilho81))`
+- Professor José Matias Lemes Filho [matiasfilho81](https://github.com/matiasfilho81))
 
 
 

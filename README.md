@@ -14,11 +14,13 @@ Se você tiver uma sugestão que possa melhorar isso, crie um fork do repositór
 
 ### Tecnologias Empregadas:
 - Java
-- Frameworks
-- Biblioteca
-- Banco de Dados
+- Spring Framework
+- Biblioteca Jakarta
+- Biblioteca Lombok
+- Banco de Dados H2
 
 ### Descrição da Arquitetura:
+Para o design da estrutura lógica do projeto, utilizaremos duas classes principais: Aluno e IniciaChamada, que irão interagir entre elas para a aplicação do CRUD no Banco de dados, assim, alterando um campo de presença booleano para a determinada data na instância da classe IniciaChamada. Para a relação entre os módulos, separamos a aplicação em pacotes diferentes contendo suas próprias classes ou interfaces, sendo elas a AlunoController para gerenciar as operações relacionadas aos alunos, oferecendo endpoints para listar todos os alunos e adicionar novos alunos por meio de requisições HTTP GET e POST, respectivamente.  E também a Interface AlunoRepository, que é responsável por fornecer métodos para interação com o banco de dados, permitindo operações de persistência e recuperação de dados relacionados à entidade "Aluno" por meio da integração com o framework Spring Data JPA.
 
 ### Funcionalidade
 

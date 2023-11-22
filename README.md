@@ -38,7 +38,7 @@ Project Link: [https://github.com/izafossato/lista-de-presenca-springboot](https
 
 ### Agradecimentos
 
-- Professor José Matias Lemes Filho [matiasfilho81](https://github.com/matiasfilho81))
+- Professor José Matias Lemes Filho [matiasfilho81](https://github.com/matiasfilho81)
 
 
 
